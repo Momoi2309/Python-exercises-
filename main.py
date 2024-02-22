@@ -11,8 +11,6 @@ print(hash(a))
 # ### EX 3STRING FORMATTING
 
 
-#nu am facut
-
 
 ### EX 4 CALENDAR
 
