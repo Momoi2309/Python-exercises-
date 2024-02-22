@@ -8,9 +8,6 @@ n=int(input())
 a=tuple(map(int,input().split()))
 print(hash(a))
 
-# ### EX 3STRING FORMATTING
-
-
 
 ### EX 4 CALENDAR
 
